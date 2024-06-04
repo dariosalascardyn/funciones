@@ -1,2 +1,2 @@
 # funciones
-ejerrrcicion funciones
+ejercicios funciones
